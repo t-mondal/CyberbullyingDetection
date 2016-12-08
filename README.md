@@ -26,7 +26,7 @@ https://1drv.ms/w/s!ArYmmazjqJUslRWbtUil4bJR467U
 
 **Notes**
 
-This project is in its very early stages. Currently this is the third model of a cyberbullying detection program that Tuneer Mondal and I have jointly developed, and more models are planned which add/refine:
+This project is in its very early stages. Currently this is the third model of a cyberbullying detection program that Moeyyad Qureshi and I have jointly developed, and more models are planned which add/refine:
 
 - Consistency checking features to ensure that checks if longer comments include instances of cyberbullying throughout. This will reduce the number of false positives
 - Context checking the surrounding comments to see if any hostility/negativity was already present
